@@ -26,8 +26,8 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM
-### DEVELOPED BY : KALPANA S
-### REGISTER NO: 212222040069
+### DEVELOPED BY : PRANAV KUMAR M
+### REGISTER NO: 212222040119
 
 ### MainActivity.java:
 ```
